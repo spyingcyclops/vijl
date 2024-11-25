@@ -1,0 +1,17 @@
+1 - age: Age of the client
+2 - job : Type of job
+3 - marital : Marital status of the client
+4 - education: Education level
+5 - default: If the person has credit in default
+6 - balance: Average yearly balance, in euros
+7 - housing: If the person has taken a Housing Loan
+8 - loan: If the person has taken a Personal Loan
+9 - contact: Contact communication type
+10 - day: Day of week of last contact
+11 - month: Month of last contact
+12 - duration: Last contact duration, in seconds
+13 - campaign: Number of contacts performed during this campaign to the client
+14 - pdays: Number of days that passed by after the client was last contacted (-1 means client was not previously contacted)
+15 - previous: Number of contacts performed before this campaign
+16 - poutcome: Outcome of the previous marketing campaign
+17 - y: Has the client subscribed a term deposit?
