@@ -24,3 +24,4 @@ output.csv
 scratch.csv
 task-breakdown.md
 data/
+venv/
